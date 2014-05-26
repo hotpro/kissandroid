@@ -1,4 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">KissAndroid</string>
-    <string name="wifi_activity">WifiActivity</string>
+    <string name="wifi_activity">Wifi/WifiActivity</string>
+    <string name="title_activity_shadow_shape">ShadowShapeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_renderscript">RenderscriptActivity</string>
+
 </resources>
