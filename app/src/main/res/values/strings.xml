@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KissAndroid</string>
+    <string name="wifi_activity">WifiActivity</string>
+</resources>
